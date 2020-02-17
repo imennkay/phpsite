@@ -16,6 +16,8 @@
     <script src="./js/main.js"></script>
 </head>
 <body>
+<h1>PHP-Site</h1>
+<a href="index.php"> Start </a> | <a href="about.php"> om oss</a>
     
 </body>
 </html>
